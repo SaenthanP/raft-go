@@ -68,6 +68,9 @@ type RequestVoteResult struct {
 	voteGranted bool //true means candidate received vote
 }
 
+func main() {
+
+}
 func LeaderElection() {
 
 	/*
